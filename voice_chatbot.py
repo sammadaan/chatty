@@ -21,7 +21,7 @@ def load_data():
     return files
 
 data = load_data()
-API_KEY = "YOUR_GEMINI_API_KEY"  # Replace this
+API_KEY = "AIzaSyBzG6Dkaery-J5wMopPp0QuLx596auHxxo"  
 
 def search_all_chunks(query):
     query_lower = query.lower()
