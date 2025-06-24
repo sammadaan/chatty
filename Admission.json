@@ -1,0 +1,556 @@
+
+{
+  "Programs": [
+    {
+      "CourseName": "B.Tech. in Computer Science & Engineering (Hons.) with specialization in Cyber Security & Threat Intelligence in association with Quick Heal (Lateral Entry)",
+      "CourseLevel": "Undergraduate",
+      "Duration": "3 Years (6 Semesters)",
+      "AnnualFee": "INR 2,94,000",
+      "Overview": "The program is designed to provide students with a strong foundation in computer science, along with in-depth knowledge of cybersecurity principles, practices, and emerging technologies, focusing on areas like network security, ethical hacking, cryptography, and threat detection. It prepares graduates to address the growing challenges of cyber threats in the digital world through hands-on training, real-world applications, and critical thinking.",
+      "IndustryCollaboration": {
+        "Partnerships": [
+          "**Strong industry associations with giants like Quick Heal, Google Cloud, MongoDB, and UI Path**",
+          "**Curriculum design, delivery, training, internships, and placements are ensured through these associations**",
+          "Certification opportunities with industry partners Quick Heal, Google Cloud, CISCO, EC-Council (in pipeline)"
+        ],
+        "DeliveryMethod": "**Co-designed, Co-delivered, and Co-certified courses by industry experts and reputed academicians**"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Hands-on training** and **real-world applications**",
+          "**Nine fully equipped state-of-the-art laboratories**",
+          "**Project and experiential-based learning**",
+          "**Industry visits**",
+          "**Industry internships**",
+          "**Online coding competitions** and **project competitions**",
+          "**Introduction to Research sequence courses** from 3rd to 5th semester, emphasizing originality, feasibility for start-ups, and documentation of outcomes (research paper, patent, product, start-up, copyright)",
+          "**Access to LinkedIn Learning licenses and GitHub accounts to foster innovation and collaboration**",
+          "**Super 40 batches for focused placement support**"
+        ],
+        "Infrastructure": [
+          "Nine fully equipped state-of-the-art laboratories",
+          "ChromeOS & Gemini AI lab for hands-on practice, research, and learning",
+          "Certified Digital Campus on Google Cloud (DCGC 2.0) with advanced digital tools and Generative AI capabilities"
+        ]
+      },
+      "CurriculumHighlights": [
+        "NBA Accredited and NAAC A Accredited",
+        "AICTE model curriculum and industry-oriented choice-based courses",
+        "Offers choice-based elective baskets with a multidisciplinary approach",
+        "Continuous guidance and mentorship from industry leaders",
+        "Seamless integration of experienced faculty, regularly trained by industry experts to deliver cutting-edge curriculum",
+        "Emphasis on learning new algorithms and developing them for real-world applications",
+        "Interdisciplinary projects, electives, and internships",
+        "Focus on project-based and experiential learning",
+        "Active associations with professional bodies like IEEE",
+        "Promotes Design Thinking & Innovation and acts as a Research & Innovation Catalyst"
+      ],
+      "CareerPathway": [
+        "Software Engineer, Frontend/Backend Developer, Mobile App Developer",
+        "**Cybersecurity Analyst, Ethical Hacker, Security Engineer/Architect, Network Security Engineer, Penetration Tester, Forensic Analyst, Malware Analyst, Vulnerability Assessment Specialist, Cyber Security Consultant**",
+        "Data Analyst, Cloud engineer, DevOps Engineer, Database Administrator, Data Engineer, Web Developer, UX/UI Designer, IT Consultant, Product Manager",
+        "Opportunities for **Startup & Entrepreneurship**",
+        "Research opportunities",
+        "Higher Studies (M.Tech/MS in CS at IITs, NITs, Foreign Universities; MBA at IIMs, ISB, Abroad; Certifications like AWS, Google, Microsoft, CISSP, CEH, PMP)"
+      ]
+    },
+    {
+      "CourseName": "B.Tech Computer Science and Engineering (Hons.) with specialization in Full Stack Development in association with Xebia",
+      "CourseLevel": "Undergraduate",
+      "Duration": "4 Years (8 Semesters) (Note: The lateral entry document states 3 Years (6 Semesters), but both refer to the curriculum structure as '4 years program'.)",
+      "AnnualFee": "INR 3,14,000",
+      "Overview": "This innovative program blends core computer science principles with advanced web development skills, preparing students to build dynamic, scalable applications and address real-world challenges across various industries, covering both front-end and back-end development.",
+      "IndustryCollaboration": {
+        "Partnerships": [
+          "**Co-Designed, Co-Delivered and co-Certified courses by Xebia**",
+          "**Course Curriculum and E-Course Material prepared by Xebia Experts**",
+          "**Direct learning by Xebia experts** during the semester to give the industry perspective",
+          "Association with industry giants like Google Cloud, MongoDB, UI Path, L&T Edutech, LinkedIn Acadview for curriculum designing, delivery, training, internships/Placements"
+        ],
+        "InternshipOpportunities": "**Remote/Onsite Internship opportunities with Xebia or their clients**"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Project and experiential-based learning**",
+          "**Hands-on lab workshops, programming tools, and languages covered**",
+          "**Computer lab components added to all MRU courses ensure that the student is involved proactively in the learning by doing approach**",
+          "**Industrial visits**",
+          "**Online coding competitions, project competitions, and industry internships**",
+          "**Introduction to Research sequence courses** from 3rd to 5th semester, emphasizing originality, feasibility for start-ups, and documentation of outcomes",
+          "Access to LinkedIn Learning licenses and GitHub accounts to foster innovation and collaboration",
+          "Skill-based training for enhancing employability skills through MOUs",
+          "**Super 40 batches for placement support**"
+        ],
+        "Infrastructure": [
+          "Nine fully equipped state-of-the-art laboratories",
+          "ChromeOS & Gemini AI lab for hands-on practice, research, and learning"
+        ]
+      },
+      "CurriculumHighlights": [
+        "NBA Accreditation: 2023, NAAC A",
+        "Outcome-Based Education",
+        "Industry-Centric Co-designed, co-delivered and co-certified course Curriculum",
+        "Offers choice-based elective baskets with a multidisciplinary approach",
+        "Continuous guidance and mentorship from industry leaders",
+        "Seamless integration of experienced faculty, regularly trained by industry experts to deliver cutting-edge curriculum",
+        "Emphasis on learning new algorithms and developing them for real-world applications",
+        "Interdisciplinary projects, electives, and internships",
+        "Alumni Connect initiative to leverage the power of networking, experience-sharing, and placement support",
+        "Active associations with professional bodies like IEEE, ICT Academy",
+        "Promotes Design Thinking & Innovation and acts as a Research & Innovation Catalyst"
+      ],
+      "CareerPathway": [
+        "**Full Stack Developer, Front-End Developer, Software Engineer, Web Developer, Devops Engineer, Cloud Developer, Product Manager, Technical Architect, UI/UX Developer**",
+        "High job opportunities, lucrative salaries, and industry impact",
+        "Academic and Industry Research opportunities",
+        "Diverse Roles and Interdisciplinary Nature",
+        "Opportunities for **Startup & Entrepreneurship**",
+        "Research opportunities",
+        "Higher Studies (M.Tech/MS in CS, MBA, Certifications)"
+      ]
+    },
+    {
+      "CourseName": "B.Tech in Robotics & Artificial Intelligence Engineering",
+      "CourseLevel": "Undergraduate",
+      "Duration": "4 Years (8 Semesters)",
+      "Overview": "This program aims to produce graduates with strong career prospects due to the high futuristic demand for Robotics & AI professionals. It also opens global career pathways and offers remote work flexibility and entrepreneurial ventures, emphasizing the potential for meaningful social impact through contributions to medicine, science, and technology.",
+      "IndustryCollaboration": {
+        "Partnerships": [
+          "**L&T Edutech is a partner for curriculum development and training**",
+          "**Industry experts act as mentors, guiding students in writing research papers, innovative projects, patents, copyrights**"
+        ],
+        "TieUps": "90+ Corporate Tie-Ups ensure 100% industry exposure"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Hands-on lab workshops and training**",
+          "**Workshops on cutting-edge topics** like Brain-Computer Interfacing (BCI), Line Follower Robot, Industry 4.0, Visual Studio with Hands On, Embedded Systems and the Internet of Things (IoT)",
+          "**Project and Experiential-Based Learning** is a core part of the curriculum, including **interdisciplinary projects, electives, and internships**",
+          "**Capstone Project-II/Industrial Training in the final semester** allows students to recognize real-world working environment challenges, apply critical thinking, and integrate theory and practice",
+          "Students engage in research and innovation, including **funded projects** such as 'Detection of Unidentified Garbage Vulnerable Points using Drones and AI - India' under EPICS in IEEE",
+          "Opportunities for **patents, copyrights, and funded projects**",
+          "Student achievements include winning prizes for projects like 'Automated Stair Climbing Wheelchair Base' and 'Women safety'"
+        ],
+        "CurriculumAppliedSkills": [
+          "Designing and evaluating smart manufacturing solutions using collaborative robotics, AI/ML, and IIoT for improved productivity, flexibility, and safety",
+          "Programming robots using the powerful packages in Robot Operating System (ROS)"
+        ]
+      },
+      "CurriculumHighlights": [
+        "Emphasizes **AI/ML, Industrial IoT (IIoT), and collaborative robotics**",
+        "Integration of **Cyber-Physical Systems (CPS)** and **Data Analytics** for decision-making in smart manufacturing",
+        "Covers topics like Mobile & Micro Robotics, Intelligent Manufacturing, Mechatronics, Drone Technology, Augmented Reality & Virtual Reality, Biomedical Robotics"
+      ],
+      "CareerPathway": [
+        "**Robotics Engineer, AI/ML Developer, Automation Engineer, AI Research Scientist, RPA Engineers, Computer Scientists, User interface Engineer, Control engineer, Design engineer, Industrial and process control Engineer, Aerospace Engineer**",
+        "Global career pathways and remote work flexibility",
+        "Entrepreneurial ventures",
+        "Higher studies (Master's, MBA) and competitive examinations (UPSC)",
+        "Potential to make a meaningful social impact through contributions to medicine, science, and technology"
+      ]
+    },
+    {
+      "CourseName": "BCA in Cloud Computing in association with Google",
+      "CourseLevel": "Undergraduate",
+      "Duration": "3+1 Years (as per NEP)",
+      "Overview": "This undergraduate program provides a strong foundation in computer applications with a specialization in cloud computing technologies. It is designed to equip students with the skills to develop, deploy, and manage applications and infrastructure in cloud environments, addressing the demands of the rapidly evolving IT sector.",
+      "IndustryCollaboration": {
+        "Partnership": "**First in Haryana and Second in India to offer BCA Cloud Computing with Google**",
+        "Curriculum": "**Co-designed and industry ready curriculum with Google**",
+        "Certifications": [
+          "**Free access to Google certification courses and badges**",
+          "**Subsidized prices for various paid Google Cloud certifications** (e.g., Google Cloud Gen AI Skill Badge Pathways, Associate Cloud Engineer, Cloud Digital Leader, Cybersecurity Certificate, Data Analytics Certificate, Cloud Computing Foundations Certificate, Cloud Engineer Certificate)"
+        ]
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Hands-on lab sessions**",
+          "**Assignments**",
+          "**Real-world projects**",
+          "**Internships with cloud companies or departments**",
+          "Access to **Google Cloud Skill Boost Platform (Google LMS)**",
+          "Exclusive **12-hour hackathons for MRU students with Google experts and certified partners**",
+          "Access to **virtual tutors** enhancing personalized guidance",
+          "Project-based learning",
+          "**Introduction to Research sequence courses**"
+        ],
+        "Infrastructure": [
+          "**ChromeOS & Gemini AI lab for hands-on practice, research, and learning**",
+          "**Certified Digital Campus on Google Cloud (DCGC 2.0)** with advanced digital tools and Generative AI capabilities"
+        ],
+        "SkillDevelopment": [
+          "Programming in cloud-relevant languages (Python, Java)",
+          "Designing and managing databases in cloud environments",
+          "Understanding of various cloud service models (IaaS, PaaS, SaaS)",
+          "Designing and deploying scalable cloud applications",
+          "Implementing cloud security practices",
+          "DevOps tools and methodologies",
+          "Problem-solving, analytical and critical thinking skills",
+          "Application of AI, data analytics in the cloud domain"
+        ]
+      },
+      "CurriculumHighlights": [
+        "Covers Core Computer Science principles (Programming, Data Structures, Algorithms, Databases, Operating Systems)",
+        "Cloud Computing Fundamentals (Virtualization, Cloud Architectures, Service Models, Deployment Models)",
+        "Cloud Platforms and Services (AWS, Azure, Google Cloud Platform)",
+        "Cloud Security and Data Management",
+        "Cloud Application Development and Deployment",
+        "DevOps practices",
+        "Emerging technologies in cloud computing (Serverless computing, edge computing, etc.)"
+      ],
+      "CareerPathway": [
+        "**Cloud Solutions Architect, Cloud Engineer, Cloud Security Specialist, DevOps Engineer, Cloud Application Developer, Cloud Administrator, Cloud Consultant, Cloud Specialist in data analytics or AI/ML**",
+        "Strong base for masters' degrees in cloud computing, data science, software engineering, and other relevant fields",
+        "High demand for professionals with expertise in cloud technology and infrastructure due to exponential growth"
+      ]
+    },
+    {
+      "CourseName": "BCA in FinTech in association with KPMG",
+      "CourseLevel": "Undergraduate",
+      "Duration": "3+1 Years (6/8 Semesters)",
+      "AnnualFee": "INR 2,28,000",
+      "Overview": "This program offers a unique blend of computer science expertise and financial technology knowledge, designed to equip students with technical and analytical skills for the rapidly evolving FinTech industry. It focuses on transforming traditional financial services through technology innovation.",
+      "IndustryCollaboration": {
+        "Partnership": "**The sole institution in INDIA offering a BCA program in FinTech in partnership with KPMG**",
+        "Curriculum": "**KPMG's deep industry expertise ensures the curriculum covers vital areas like blockchain, AI in finance, and digital payments, preparing students with immediately applicable skills**",
+        "Delivery": "**Specialized Subjects are taught by KPMG Trainers**",
+        "IndustryExposure": "**Co-Designed, Co-Delivered and Co-Certified Programs**, Industrial Visits, Industry mentors support for project building and networking"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Practical hands-on live projects**",
+          "**Project and experiential-based learning**",
+          "**Collaborative learning using Agile Classrooms** for 21st-century skills",
+          "**Social internship, industry immersion, and industry internship opportunities after the 2nd, 4th, and 6th semesters**",
+          "Opportunity of patents, copyrights, funded projects, consultancy, and student start-ups",
+          "Opportunity of conferences, short-term training programs, workshops, webinars, online coding competitions, project competitions",
+          "**Introduction to Research sequence courses**",
+          "Students are assessed through assignments, **projects**, quizzes, mid-term exams, and a final exam, with projects being an important part to demonstrate application of learning to practical solutions"
+        ],
+        "Infrastructure": [
+          "Nine fully equipped state-of-the-art laboratories",
+          "Research Cluster of Computing Lab (RCC), Access to high-end Labs, Agile Classrooms, Google Gemini AI Lab"
+        ],
+        "SkillDevelopment": [
+          "**Programming, Database Management, Financial Analysis, Cloud Computing, Blockchain Technology, Artificial Intelligence**"
+        ]
+      },
+      "CurriculumHighlights": [
+        "Comprehensive curriculum includes core subjects, skill enhancement electives, multidisciplinary electives, and domain-specific courses, with a strong focus on Finance Technology specialization",
+        "Dedicated communication enhancement subjects",
+        "Domain-specific subjects aligned with KPMG FinTech Modules"
+      ],
+      "CareerPathway": [
+        "**Blockchain developer, Financial Software Developer, Data Analyst, AI/ML Specialist in Finance, Product manager (Fintech Products), Mobile App Developer for Payment System**",
+        "**Fintech Entrepreneur, Fintech Consultant**",
+        "Opportunities for **Startup & Entrepreneurship**",
+        "Research opportunities",
+        "Higher Studies (MCA/MSc.(CS), M.Tech/MS in CS, MBA)"
+      ]
+    },
+    {
+      "CourseName": "Bachelor of Business Administration (Specialization in Business Analytics)",
+      "CourseLevel": "Undergraduate",
+      "Duration": "3 Years (6 Semesters)",
+      "AnnualFee": "INR 2,37,500",
+      "Overview": "This program aims to make graduates highly competitive and employable in today's dynamic business environment (VUCA world) by focusing on skills like creativity, communication, collaboration, critical analysis, and commitment. It emphasizes data literacy and expertise in analytical tools such as R, Python, Sas, and Tableau.",
+      "IndustryCollaboration": {
+        "Partnership": "In association with **The Institute of Analytics (IoA)**, a professional body promoting awareness, understanding, and innovation in analytics",
+        "Mentorship": "Mentoring by **Industry experts in semesters V and VI**"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Experiential learning, simulation & game-based exercises**",
+          "National and international **industry internship opportunities**",
+          "**Industry visits**",
+          "Training on **Operations Management software tools**",
+          "Student exchange programmes and study tours",
+          "Opportunities for participation in **conferences and projects**",
+          "The curriculum includes **8-10 months of internship** during their II, IV and VI semesters with firms specializing in logistics and supply chain"
+        ],
+        "LearningFocus": "Focuses on applying analytic tools and techniques to solve business analytic problems, and on conceptual knowledge in multiple disciplines of analytics."
+      },
+      "CurriculumHighlights": [
+        "Prepares students with necessary skills and knowledge in data analysis to meet the challenges of a changing business environment",
+        "Imparts knowledge of core courses embedded with specialized courses like Business Analytics, Spreadsheet Modeling, Marketing & HR Analytics, Supply-Chain Analytics, Data Visualization, R programming, Business Intelligence & Data Mining",
+        "Curriculum includes Business Communication, Personality development, IT subjects, foreign language and soft skills required to succeed"
+      ],
+      "CareerPathway": [
+        "Financial Analyst, Financial planning & consultancy",
+        "Financial Risk Manager",
+        "Corporate Finance (M&A, IPO, Equity and Debt)",
+        "Management & Cost Accountant",
+        "Investment Analyst",
+        "Auditor",
+        "Sales & Marketing of Financial Services",
+        "Relationship managers in Banking and NBFCs",
+        "Portfolio Manager"
+      ]
+    },
+    {
+      "CourseName": "Master of Business Administration (MBA) in Business Analytics",
+      "CourseLevel": "Postgraduate",
+      "Duration": "2 Years (4 Semesters)",
+      "AnnualFee": "INR 3,71,100",
+      "Overview": "A four-semester (Two Years) skill-oriented program in association with The Institute of Analytics (IoA). It is specially designed to equip students with future-oriented data handling and decision-making skills, catering to specialized learning and training needs in data management through new software to reach strategic positions.",
+      "IndustryCollaboration": {
+        "Partnership": "In association with **The Institute of Analytics (IoA)**, the Professional Body for Analytics and Data Science professionals in the UK and globally",
+        "Delivery": "**Blended learning from Industry and Professional Trainers from ISDC and IoA**",
+        "Insights": "**Practitioner-oriented insights from industry experts** will help you develop solutions to real-world problems using cutting-edge analytical techniques"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Hands-on Training on Analytics modules from IoA**",
+          "**Experiential learning consists of lab exercises, assignments, case studies, research projects, and work-integrated activities**",
+          "Program offers exposure to state-of-the-art data analysis/visualization tools such as **R, Python and Tableau; and also to Excel-based modeling**"
+        ],
+        "Certifications": "Provides **Dual qualification**: Students get a degree from University and an affiliate membership from IoA, UK, and a diploma certificate from ISDC"
+      },
+      "CurriculumHighlights": [
+        "Skill-oriented program designed to equip students with future-oriented data handling and decision-making skills",
+        "Collaboration with IoA helps students gain global recognition and access global job opportunities",
+        "Uses a Continuous Evaluation System that assesses learners over convenient and regular intervals, providing timely and frequent feedback"
+      ],
+      "CareerPathway": [
+        "Financial/HR/ Operations/Service Data Analyst",
+        "Marketing Analytics Manager",
+        "Fraud Analyst",
+        "Data Visualization Analyst",
+        "Entrepreneur",
+        "Big Data Analytics"
+      ],
+      "WhyPursue": [
+        "Analytics is the new buzzword for any business",
+        "High demand for individuals who can leverage data for the betterment of the world",
+        "Massive shortfall of trained analytics professionals in India and abroad",
+        "Competitive average salary higher than that of any IT domain",
+        "Many firms are using **predictive analytics to anticipate maintenance and operational issues** before they become a more significant problem, as found in a KPMG report"
+      ]
+    },
+    {
+      "CourseName": "B.A. LL.B. (Hons.) Programme",
+      "CourseLevel": "Undergraduate",
+      "Duration": "5 Years (10 Semesters)",
+      "Overview": "A five-year (10 semesters) undergraduate degree programme that integrates Liberal Arts with Law. It is designed to provide students with a strong foundation in a diverse range of subjects, both legal and non-legal, fostering a holistic understanding of law.",
+      "IndustryCollaboration": {
+        "Linkages": "**Strong linkages with industry, corporates, law firms, Senior Advocates of the various High Courts and the Supreme Court of India, and regulatory bodies which helps to facilitate internships and placements**",
+        "AdvisoryCouncil": "An Advisory Council headed by Hon’ble Former Chief Justice Uday Umesh Lalit, with former High Court Judges, Senior Advocates, and Bureaucrats"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Experiential Learning, ‘Learning by Doing’**",
+          "**Strong emphasis on experiential, participative and problem-based learning methodologies**",
+          "Emphasis on **Clinical Legal Education** integrated throughout",
+          "Dedicated **Internship Viva modules in semesters 3, 5, 7, and 9**",
+          "Participation in **International and National Moot Court Competitions, Client Counselling and Mediation Competitions, Judgment Writing, International and National Conferences and Seminars**",
+          "Practical skills development including legal research, advocacy, drafting",
+          "Courses like 'Drafting, Pleading and Conveyancing'"
+        ],
+        "Infrastructure": [
+          "Various Centres of Excellence and Research Groups such as Centre for Corporate Law and ADR, Centre for Legislative Studies and Research, Centre for Environmental Laws and Climate Change, Centre for Food and Health Laws, Centre for Artificial Intelligence and Technology Laws, Centre for Sports and Media Laws, Law and Forensics Research Group"
+        ],
+        "BestPractices": [
+          "Legal Aids",
+          "Moot Courts",
+          "Guest Lectures"
+        ]
+      },
+      "CurriculumHighlights": [
+        "Approved by the Bar Council of India (BCI) and University Grants Commission (UGC)",
+        "Faculty from top notch institutions such as NLUs, JNU and foreign Universities",
+        "Use of inclusive pedagogies and inter-disciplinary approach",
+        "Strong emphasis on professional training and holistic personality development",
+        "Integration of STEM in the foundation years to aid understanding of law and legal principles"
+      ],
+      "CareerPathway": [
+        "**Litigation** (practicing in District Courts, High Courts, Supreme Court)",
+        "**UPSC** and **Judicial Services**",
+        "Armed Forces (Judge Advocate General), Judicial Clerkship",
+        "**Law firms**",
+        "**Corporate Sector** (In-house counsels, compliance officers, legal departments in MNCs, Legal officers for Banks and Insurance Companies)",
+        "Alternative Legal Careers (NGOs, Legal Editor, Legal Journalist, LPOs, KPOs)",
+        "Academia as industry experts",
+        "Evolving Fields: Technology law, artificial intelligence, environment and sustainable development, entertainment laws",
+        "Aids many other degrees such as CA, CS, CMA"
+      ]
+    },
+    {
+      "CourseName": "M.Tech Computer Engineering",
+      "CourseLevel": "Postgraduate",
+      "Duration": "2 Years (Full-time)",
+      "Overview": "A full-time 2-year degree program.",
+      "IndustryCollaboration": {
+        "Delivery": "**Department has collaborations with many external organizations like Infosys, Microsoft, AWS, Quickheal, Xebia who work in association with the departments to impart education to the students on cutting edge technology**"
+      },
+      "ExperientialLearning": {
+        "Methods": [
+          "**Hands-on practice** for progressive, consolidated learning and implementation through **STEP (Simulated Teaching Enabled Programmes) methodology**",
+          "Teaching through demonstration, analogies, case based learning, scenario playing, depicting concepts through flash movies, role plays",
+          "**Computer lab components added to all MRU courses ensure that the student is involved proactively in the learning by doing approach**",
+          "**Students are encouraged to carry original research** under the guidance of highly qualified professors",
+          "Opportunities for **summer training**",
+          "Lab facilities and expert faculty members are available to guide students in areas like Speech Processing, Machine Learning, Computer Vision, Pattern Recognition, Image Processing, Soft Computing, Big Data, Software Engineering, Data Mining, Robotics, Cloud Computing, Network Security, Open Source Technologies",
+          "**Dissertation Project** in Semester 4"
+        ],
+        "Infrastructure": [
+          "The Department uses Windows, Linux, Cloud based platforms and virtualization techniques for instruction (Labs) and course assignments",
+          "Extensive computer labs with a student-computer ratio of 1:1 and faculty-student ratio of 1:15"
+        ]
+      },
+      "CurriculumHighlights": [
+        "Curriculum covers fundamental computer science concepts, emerging technologies, data science, and research methodologies",
+        "Includes subjects like Advanced Algorithms, Mathematical Foundation, Soft Computing, Advanced Wireless & Mobile Networks, NoSQL Database Model, Research Methodology & IPR, Python Programming, R Programming (Workshop), Agile Technologies (Workshop), Pedagogical Skills",
+        "Data Science, Business Intelligence, Optimization Techniques, Wireless Sensor Network, Data Preparation and Analysis, Cloud Computing, User Experience, Data Visualization and Tableau, Mini Project with Seminar, Professional & Ethical Issues",
+        "Internet of Things (IoT), Big Data, Mobile Application and Services, Operations Research, Non-Conventional Energy Sources, Machine Learning"
+      ],
+      "CareerPathway": {
+        "CorporateSector": "Employment opportunities in consulting companies (TCE Consulting Engineers Ltd., Zinnov Research Consulting), Core Engineering Companies (Punj Lloyd, LT ECC), R&D Centers (BARC, ISRO)",
+        "ResearchDevelopment": "Opportunity of super-specialization and further studies",
+        "TeachingProfession": "Various jobs available in academic institutions"
+      }
+    },
+    {
+      "CourseName": "M.Sc. Chemistry Programme",
+      "Overview": "A postgraduate program that places a strong emphasis on practical exposure and career readiness.",
+      "IndustryCollaboration": {
+        "Partnerships": "Strong industry associations and MOUs with leading organizations ensure curriculum alignment, training, internships, and placement",
+        "Training": "MOUs with leading organisations facilitate **Skill-Based Training Programs** to enhance employability"
+      },
+      "ExperientialLearning": {
+        "Internships": "Students benefit from **6-month internships**",
+        "Laboratories": "State-of-the-art **University Instrumentation Centre (UIC) for Chemistry** which serves as a central facility for sample characterization",
+        "Equipment": "Equipped with advanced instruments like **NMR, HPLC, and UV-Vis spectrophotometers** for sample characterization",
+        "AcademicEnrichment": "Academic enrichment activities include **conferences, workshops, webinars, short-term training programs, and industry internships**"
+      },
+      "CareerDevelopment": "Dedicated **Career Development Cell (CDC)**",
+      "GlobalExposure": "International Faculty engagement sessions and robust international collaborations aim to keep students updated with global research trends"
+    }
+  ],
+  "GeneralUniversityInformation": {
+    "TeachingPedagogy": [
+      "**Learning-by-doing** approach aims to bridge the gap between industry and academia",
+      "**STEP (Simulated Teaching Enabled Programmes) methodology** adds dynamism to teaching by using 'tools' for hands-on practice, including teaching through demonstration, analogies, case-based learning, scenario playing, depicting concepts through flash movies, and role plays",
+      "Strong emphasis on **experiential, participative, and problem-based learning methodologies** to create more engaging and relevant learning experiences"
+    ],
+    "Laboratories": [
+      "**09 fully equipped state-of-the-art laboratories** (for CSE programs)",
+      "Access to **high-end Labs, Agile Classrooms, Google Gemini AI Lab**",
+      "**University Instrumentation Centre (UIC) for Chemistry**",
+      "Student-computer ratio in the lab is 1:1, and faculty-student ratio is 1:15 to facilitate learning by doing"
+    ],
+    "ResearchInnovation": {
+      "InnovationIncubationCentre": "**The MRU-Innovation & Incubation Centre, established in 2018, is a key hub for promoting entrepreneurship and innovation** at MRU. Its mission is to create a thriving startup ecosystem that supports ideas from **ideation to successful ventures**. It cultivates a culture of entrepreneurship among students and faculty, providing essential tools and resources.",
+      "SupportSystem": [
+        "Offers **workshops and training sessions on the latest technological trends**",
+        "Organizes **industry and incubation centre visits** for real-world exposure and networking",
+        "Provides **end-to-end mentorship from industry professionals, renowned business leaders, and academicians**",
+        "Assists with **company registration and fundraising**",
+        "Connects students to **internship opportunities**",
+        "Encourages participation in **national and international hackathons**",
+        "Offers **seed funding for promising startup ideas**",
+        "Guides students in utilizing the **MRU-NISP Policy** to access additional resources and benefits"
+      ],
+      "ResearchFocus": [
+        "**Introduction to Research courses** in the initial years, emphasizing originality, feasibility for start-ups, and documentation of outcomes (research paper, patent, product, start-up, copyright)",
+        "Students are encouraged to carry original research under the guidance of highly qualified professors",
+        "Guidance provided on **how to write research papers and file patents**",
+        "Area-specific **research groups & clusters** are formed in areas like Data Analytics, AI, Emerging Web Technologies, and Network Security",
+        "**5 specialized centers** (AI, VLSI, Business Analytics, Materials Science, Law & Tech) and **2 Centers of Excellence**, aligned with national missions like Make in India and Aatmanirbhar Bharat",
+        "**Industry-Led Innovation** with state-of-the-art labs (Daikin HVAC, Altair DesignTech, VLSI prototyping) and hackathons with partners like Microsoft, SAE, and Mitsubishi"
+      ],
+      "FundedProjects": [
+        "The CST Faculty and Students Team received approval for **$6,390.00** for the first phase of the project titled '**Detection of Unidentified Garbage Vulnerable Points using Drones and AI - India**' under the EPICS in IEEE program"
+      ],
+      "PatentsFiled": "Students have successfully patented projects, with 6 projects under review for patents. Overall, 50+ patents filed.",
+      "ProvenOutcomes": "Student innovations include AI health chatbots, landslide-monitoring drones, and award-winning wearables (e.g., Manouve, showcased at Microsoft Imagine Cup globals)"
+    },
+    "PlacementSupport": [
+      "Student grooming for **placement readiness through Career Development Cell (CDC) experts**",
+      "**Super 40 batches for focused placement support**",
+      "Integration of Employability questions in the tutorial sheets",
+      "**Corporate Relations Centre (CRC)**",
+      "The university’s placement cell provides **job search assistance, internship opportunities and career guidance**",
+      "**90+ Corporate Tie-Ups ensure 100% industry exposure**, translating research into placements (Google, Samsung, Tata Motors) and scalable startups"
+    ],
+    "OnlineLearning": [
+      "E-learning through **MOOC, NPTEL, Coursera, Infosys Springboard, LinkedIn Learning, UI Path, MongoDB, Xebia, Google**",
+      "**NPTEL Lectures** to promote self-learning and knowledge sharing",
+      "**Virtual Labs from IIT Delhi** provide exposure to programming & lab practices"
+    ],
+    "FacultyQuality": "Core faculty comprises distinguished academicians (PhD, GATE, NET qualified) from the best institutions and leading professionals from the corporate world with rich industry and research experience. They are **regularly trained by industry experts** to deliver cutting-edge curriculum.",
+    "StudentLifeAndActivities": {
+      "Societies": [
+        "**Felicia (Art Society)**",
+        "**Rehnuma (Literary Society)**",
+        "**Moksh (Music Society)**",
+        "**Drishti (Media Society)**",
+        "**Khalbali (Drama Society)**",
+        "**Noora (Fashion Society)**",
+        "**Tech Soul (Tech Society)**",
+        "**Gamenics (Gaming Society)**",
+        "**Rudra (Dance Society)**",
+        "**CSR (Corporate Social Responsibility) Society**",
+        "**AthElites (Sports Society)**",
+        "Karisma (Personality Development Society)",
+        "Manav Rachna Literary Forum",
+        "Manav Rachna Photography Club",
+        "Manav Rachna National Service Scheme",
+        "Manav Rachna SPIC MACAY Chapter"
+      ],
+      "CoCurricularActivities": [
+        "**100-Hour Training Program on Artificial Intelligence** under the Finishing School for Employability initiative through ICT Academy",
+        "**EmpowerHer Week celebration** with events like Alumni Talk Show, Code Conquer, Squid Game, Software Quality Management Workshop, Techno-O-Bingo, AI@MRU",
+        "30-day code challenge and Coding Club sessions",
+        "Alumni Connect events",
+        "**Opportunities for conferences, short-term training programs, workshops, webinars, online coding competitions, project competitions, and industry internships**"
+      ],
+      "ProfessionalBodiesAffiliation": "Students are associated with professional bodies like **IEEE, ISTE, and NPTEL**",
+      "EarnWhileLearn": "**Earn While Learn** under MR IMPACT Internship opportunities"
+    },
+    "StudentAchievementsHighlights": [
+      "**3 international Placements in 2023** (Karan Aditya Ghoshal - KPMG, Canada 60 LPA; Sarthak Rastogi - Space and Time Labs, US, 55 LPA; Deepanshu Sharma - équipe Nutrition Canada 30 LPA)",
+      "Ananya Kamra (Alto Palo Networks) 51 Lakhs",
+      "Various **IEEE awards** for student volunteers (e.g., J.K Pal Memorial award, Outstanding Student Volunteer Award)",
+      "Arjun Vats won **gold medal** in National Bench Press Powerlifting Competition",
+      "Students were **victorious in the cricket match** during the 10th MREI Girls Sports Meet",
+      "Ten students selected for **Fellowship from IBITF (IIT Bhilai)**",
+      "Students presented numerous **research papers at international conferences** on diverse topics (e.g., Real-Time Cotton Crop Pest Identification, Nutritional Assessment, Machine Learning for Personality Classification, Garbage Classification, Automated MCQ generation, Alzheimer’s disease Detection, Diabetic Retinopathy, Turmeric Leaf Identification)",
+      "Kanika Sharma won **Code for Good 2024 Hackathon (JPMorgan Chase & Co.)** and anticipates an internship offer",
+      "Vidhi Bhardwaj secured position among top 10 teams in **all India Women ONLY Start-a-thon 2024**",
+      "Arjun Mathur, Mayank Singh Negi and Priyanshu Sharma secured **1st position in national event Spark 3 Hackathon**",
+      "Shivani Sharma, Sneha Kumari, and Eshaan Gupta secured **First Prize at 'HealthTech Innovations Fest 2024'** for 'Mobile App for Assisting Indoor Navigation of Visually Impaired People'",
+      "Tanish Sharma, Yash Poonia, Saurabh secured a spot at the **ICPC Kanpur Regionals**, securing an All-India Rank of 85",
+      "Suhani Goyal selected for **DESIS Ascend Educare Program 2024 by D. E. Shaw Group with stipend**",
+      "Students from MRU grabbed 4 out of 10 consolidation prizes in the **Altair Data Science Contest** conducted by APOGEE, BITS Pilani",
+      "Several students were among the **top % toppers for various NPTEL courses**",
+      "Tuhin placed in **Commvault with a package of 32.9 LPA**",
+      "Drishti Uppal selected for Summer Internship at National Instrument at **45,000 per month**",
+      "Ashwani Soni selected for Summer Internship at Google at the stipend for **1.23 Lakhs per month**",
+      "Akshita Sachdeva (Alumni) co-founder of Kibo, presented innovation in **Shark Tank season 3**",
+      "Mark Emmanuel, Ankit Bhardwaj, Chirag Khandelwal secured First Position in 'Tech Showcase' for 'HAND GESTURE CONTROLLED PC'",
+      "Kolla Teja (graduate) enrolled in Masters in AI at University of Florida, achieved 6th rank among public universities in USA and secured **$4500 scholarship**"
+    ],
+    "ResidentialFacilities": {
+      "General": "Both on-campus and off-campus hostel accommodation for boys and girls with single, double and triple rooms",
+      "RoomCategories": "Air Conditioned, Non Air Conditioned, single seater, two seater, three seater and five seater rooms with attached/common bathrooms. Hostel fee charged according to room category chosen by the student",
+      "IncludedServices": "Medical facilities, medical insurance, library facilities and laundry facilities are also provided within the hostel fee charges. Mess plan is included in the Hostel Fees"
+    },
+    "Transport": "**Well-organized transport facility ensures a safe, reliable, and hassle-free commute** for students traveling from Delhi and Gurugram. It has a fleet of well-maintained, GPS-enabled buses, trained drivers, and onboard support staff, prioritizing punctuality, safety, and convenience.",
+    "SportsFacilities": "World class sports facilities for outdoor and indoor games including basketball, volleyball, cricket, shooting, table tennis, squash, billiards, soccer, chess, carom. Features a 25m Shooting Range and 10m air-conditioned Indoor Shooting Range operated on SIUS Ascor electronic targets of Olympics standards. Indoor badminton and table tennis stadia with synthetic courts in association with Yonex and Stag. A Sports Fitness Centre for psychological, physiotherapy and other health-related issues, a Soccer Academy, and a Semi Olympic-sized swimming pool.",
+    "AlumniNetwork": [
+      "Alumni Connect initiative to leverage the power of networking, experience-sharing, and placement support",
+      "Regular Alumni Seminars",
+      "Prominent Alumni and Alumni Speak events"
+    ],
+    "MinimumAttendanceCriteria": "A student shall be required to have a minimum attendance of 75% in a course to be eligible for appearing in the end semester examination.",
+    "ScholarshipProvision": "**Up to 100% scholarship** is available for meritorious students and sports persons.",
+    "MinimumCreditRequirement": {
+      "BTechCSE": "160 credits",
+      "BTechCSESpecialization": "180 credits",
+      "BTechRoboticsAI": "30 credits",
+      "MTech": "90-100 credits",
+      "GeneralConditions": "Completion of minimum credits as specified in the curriculum, including all core courses, University mandatory courses, and summer trainings. Students must complete at least two electives from their parent department, and at least one elective from other engineering, sciences (Mathematics/Physics/Chemistry), Humanities, and Management departments. A student must register for a minimum of 14 credits and a maximum of 29 credits in a semester, including at least 2 hard courses. Provisions exist for acknowledgement of credits earned at different universities/institutes."
+    },
+    "ComputerEnvironmentsPlatforms": "The Department uses **Windows, Linux, Cloud based platforms and virtualization techniques** for instruction (Labs) and course assignments, offering extensive computer labs."
+  }
+}

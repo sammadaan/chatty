@@ -1,0 +1,26 @@
+{
+    "positions": {
+        "vc": "Vice Chancellor",
+        "hod": "Head of Department",
+        "dean": "Dean",
+        "registrar": "Registrar",
+        "director": "Director"
+    },
+    "departments": {
+        "cse": "Computer Science Engineering",
+        "ece": "Electronics and Communication Engineering",
+        "mech": "Mechanical Engineering",
+        "civil": "Civil Engineering",
+        "it": "Information Technology",
+        "mba": "Master of Business Administration",
+        "btech": "Bachelor of Technology"
+    },
+    "general": {
+        "mru": "Manav Rachna University",
+        "uni": "University",
+        "dept": "Department",
+        "adm": "Admission",
+        "fac": "Facilities"
+    }
+}
+
